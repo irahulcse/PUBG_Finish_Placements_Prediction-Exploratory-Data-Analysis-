@@ -4,61 +4,36 @@ Working on the Exploratory Data Analysis according to the different aspects like
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+### Technologies:
+* Programming Language: Python
+* Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
+* Visualization: plotly
+### Data Sources:
+Datasets used for the analysis can be found on the given [link](https://www.kaggle.com/c/pubg-finish-placement-prediction).
 ### Prerequisites
-
 What things you need to install the software and how to install them
-
 ```
 pip install python3
 ```
 
 ### Installing
-
-A step by step series of examples that tell you how to get a development env running
+Install all the dependencies through the python3 and also on the Visual Studio Code.
 
 Say what the step will be
 
+```install the vscode google
 ```
-Give the example
-```
-
 And repeat
 
 ```
-until finished
+install all the libraries written on the installation 
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [VisualStudio Code](https://code.visualstudio.com/) - Best Editor for the Code Writing and Debugging
+* [Python](https://www.python.org/download/releases/3.0/) - All the dependecy are used on Python3
+* [Kaggle For PUBG Dataset](https://www.kaggle.com) - Website to practice the Machine Learning
 
 ## Contributing
 
@@ -70,9 +45,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Rahul Chandra(Sophomore Student Computer Science Engineering)** - *Initial work* - [Machine Learning Enthusiast](https://github.com/irahulcse)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
@@ -80,6 +54,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Works on only with the Python3 dependencies(so please take care of it)
+* Practiced how to work on the Exploratory Data Analysis Techniques)
