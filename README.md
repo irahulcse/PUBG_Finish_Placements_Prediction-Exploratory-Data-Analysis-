@@ -2,7 +2,11 @@
 Working on the Exploratory Data Analysis according to the different aspects like Killers,Runners,Drivers,Swimmers,Healers and Feature Enginering.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+* First Download the Dataset from the link given in the Data Sources.
+* Clone the repo 
+* Go to the File and run the .py file through cmd with python3 as the default version
+* See the different plots and the predictions regarding the datasets.
+* Enjoy the better experience of how you can increase the chances to win the Chicken Dinner in the PUBG.
 
 ### Technologies:
 * Programming Language: Python
@@ -21,12 +25,11 @@ Install all the dependencies through the python3 and also on the Visual Studio C
 
 Say what the step will be
 
-```install the vscode google
+```pip install vscode && pip install python3
 ```
-And repeat
-
+And also
 ```
-install all the libraries written on the installation 
+install matplotlib,seaborn,numpy,sklearn through python3
 ```
 
 ## Built With
@@ -45,7 +48,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Rahul Chandra(Sophomore Student Computer Science Engineering)** - *Initial work* - [Machine Learning Enthusiast](https://github.com/irahulcse)
+* **Rahul Chandra** - *Initial work* - [Machine Learning Enthusiast](https://github.com/irahulcse)
 
 
 ## License
