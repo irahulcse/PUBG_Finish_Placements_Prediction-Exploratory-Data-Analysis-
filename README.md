@@ -25,7 +25,8 @@ Install all the dependencies through the python3 and also on the Visual Studio C
 
 Say what the step will be
 
-```pip install vscode && pip install python3
+```
+pip install vscode && pip install python3
 ```
 And also
 ```
