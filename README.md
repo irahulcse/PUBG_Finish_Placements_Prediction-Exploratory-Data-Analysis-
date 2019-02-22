@@ -37,7 +37,7 @@ install matplotlib,seaborn,numpy,sklearn through python3
 
 * [VisualStudio Code](https://code.visualstudio.com/) - Best Editor for the Code Writing and Debugging
 * [Python](https://www.python.org/download/releases/3.0/) - All the dependecy are used on Python3
-* [Kaggle For PUBG Dataset](https://www.kaggle.com) - Website to practice the Machine Learning
+* [Kaggle For PUBG Dataset](https://www.kaggle.com/c/pubg-finish-placement-prediction) - Website to practice the Machine Learning
 
 ## Contributing
 
